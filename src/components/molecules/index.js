@@ -1,0 +1,9 @@
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as MostPicked } from "./MostPicked";
+export { default as Category } from "./Category";
+export { default as Testimony } from "./Testimony";
+export { default as DetailTitle } from "./DetailTitle";
+export { default as FeaturedImage } from "./FeaturedImage";
+export { default as DetailDescription } from "./DetailDescription";
+export { default as BookingForm } from "./BookingForm";
